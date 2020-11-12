@@ -1,0 +1,19 @@
+{
+  "translation": {
+    "transfer_form_title": "Make A Transfer",
+    "transfer_form_from_account": "From Account",
+    "transfer_form_to_account": "To Account",
+    "transfer_form_amount": "Amount",
+    "transfer_overdraft_limit": "Your overdraft limit has reached your limit",
+    "transfer_submit_btn_text": "Submit",
+    "transfer_preview_title": "Preview Transfer",
+    "cancel_btn_text": "Cancel",
+    "transfer_btn_text": "Transfer",
+    "transaction_recent_title": "Recent Transactions",
+    "search_placeholder": "Search by typing...",
+    "sort_btn_text": "Sort By",
+    "sorting_date_text": "Date",
+    "sort_btn_beneficiary": "Beneficiary",
+    "sort_btn_amount": "Amount"
+  }
+}
